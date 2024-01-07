@@ -1,1 +1,1 @@
-# altschool_first_semester-assignment
+Scissors (URL shortener)
